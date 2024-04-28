@@ -1,9 +1,10 @@
 import React from 'react'
-import Login from '../Login';
+import Login from '../Login/Login'
+
 
 const Home = () => {
   return (
-    <div>
+    <div className='container'>
       <Login />
     </div>
   )
