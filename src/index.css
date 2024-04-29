@@ -1,9 +1,10 @@
 .container {
   width: 450px;
   height: 600px;
-  background-color: goldenrod;
-  place-self: center;
+  background-color: whitesmoke;
+  border-radius: 25px;
 }
+
 
 .form-container {
   text-align: center;
